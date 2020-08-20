@@ -1,0 +1,3 @@
+- Anaconda - https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe
+- Notepad++ - https://notepad-plus-plus.org/downloads/
+- VSCode - https://code.visualstudio.com/
